@@ -1,3 +1,3 @@
 # Banking-Application-BackEnd
 
-- Spring Boot
+- Spring Boot 2.7.10
